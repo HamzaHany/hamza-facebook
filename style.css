@@ -1,0 +1,101 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: whitesmoke;
+    font-family: arial;
+}
+
+h1.title {
+    text-align: right;
+    padding: 10px;
+}
+
+div.main {
+    background-color: #0647C1;
+    color: white;
+    height: 100px;
+    display: flex;
+}
+
+div.email {
+    display:  inline-block;
+}
+
+div.pass {
+    display:  inline-block;
+}
+
+a.forget {
+    font-size: 15px;
+    display: inline-block;
+}
+
+input.nam {
+    width: 200px;
+    height: 35px;
+    font-size: 20px;
+}
+input.sur {
+    width: 200px;
+    height: 35px;
+    font-size: 20px;
+}
+.name {
+    display: flex;
+    justify-content: flex-end;
+    align-items: stretch;
+}
+
+input.email {
+    width: 424px;
+    height: 35px;
+    font-size: 20px;
+    text-align: left;
+}
+.emil {
+    display: flex;
+    justify-content: flex-end;
+    align-items: stretch;
+}
+input.pass {
+    width: 424px;
+    height: 35px;
+    font-size: 20px;
+    text-align: left;
+}
+.password {
+    display: flex;
+    justify-content: flex-end;
+    align-items: stretch;
+}
+
+button {
+    background-color: greenyellow;
+    width: 145px;
+    height: 40px;
+}
+.inform {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: stretch;
+}
+.information {
+    display: flex;
+    justify-content: flex-end;
+    align-items: stretch;
+    padding: 20px;
+}
+
+.acc {
+    display: flex;
+}
+.img1 {
+    display: inline-block;
+}
+.img2 {
+    display: inline-block;
+}
+.acc {
+    padding: 20px;
+}
