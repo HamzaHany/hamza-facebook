@@ -6,8 +6,7 @@ body {
 }
 
 h1.title {
-    text-align: right;
-    padding: 10px;
+    
 }
 
 div.main {
@@ -82,9 +81,7 @@ button {
 }
 .information {
     display: flex;
-    justify-content: flex-end;
-    align-items: stretch;
-    padding: 20px;
+    justify-content: center;
 }
 
 .acc {
@@ -98,4 +95,8 @@ button {
 }
 .acc {
     padding: 20px;
+}
+
+.inputs {
+    margin-top: -105px;;
 }
